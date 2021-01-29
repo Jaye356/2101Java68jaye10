@@ -3,9 +3,6 @@ package com.jaye.test;
 import com.jaye.entity.Apple;
 import com.jaye.entity.Person;
 
-import javax.jnlp.PersistenceService;
-import javax.sound.midi.Soundbank;
-
 /**
  * @author shkstart
  * @create 2021-01-29-22:23
